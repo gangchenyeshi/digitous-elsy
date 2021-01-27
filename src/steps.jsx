@@ -1,6 +1,6 @@
 import React from "react";
 
-class Home extends React.Component {
+class Steps extends React.Component {
 
     render() {
         return (
@@ -12,4 +12,4 @@ class Home extends React.Component {
         )
     };
 }
-export default Home;
+export default Steps;
